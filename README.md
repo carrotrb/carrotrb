@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/carrotrb">carrotrb</a> 👋</h1>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=carrotrb&style=flat-square&color=blue)
   <a href="https://github.com/carrotrb?tab=followers"><img src="https://img.shields.io/github/followers/Tcarrotrb?style=flat-square&label=Followers&color=success" alt="Followers"/></a>
 </p>
 
