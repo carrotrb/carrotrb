@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/carrotrb">carrotrb</a> 👋</h1>
 
-<!--
-**carrotrb/carrotrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=carrotrb&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://github.com/carrotrb?tab=followers"><img src="https://img.shields.io/github/followers/Tcarrotrb?style=flat-square&label=Followers&color=success" alt="Followers"/></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🚀 Một lập trình viên đam mê xây dựng các sản phẩm sáng tạo và hữu ích</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Công cụ sử dụng
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
+
+---
+
+### 📊 Thống kê GitHub của tôi
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carrotrb&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carrotrb&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
